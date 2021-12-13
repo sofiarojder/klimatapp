@@ -1,0 +1,59 @@
+html {
+  background: #39155d;
+}
+
+body {
+  background: linear-gradient(0deg,#39155d, #7d3fbd);
+  padding:5%;
+}
+
+.App {
+  text-align: center;
+  color:#ffffff;
+}
+
+/* Startsidan */
+.knapp {
+  margin-left: 20px;
+  margin-right: 20px;
+  background: black;
+}
+
+.startH1 {
+  margin-top: 20px;
+  color: white;
+}
+
+.startInfo {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+}
+
+.BtnLinks {
+  color: white;
+}
+
+/*ButtonLinks.jsx filen */
+
+a.buttonListTitle {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.länk {
+  margin-top: 100px;
+  position: fixed;
+  bottom: 0;
+
+}
+
+.diagramBox {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
